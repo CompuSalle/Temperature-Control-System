@@ -12,7 +12,7 @@ You can find a go-through video step-by-step on my youtube channel in [here](htt
 
 >Programe Screenshot
 
-![Screenshot](https://github.com/WassemAdil/Temperature-Control-System/blob/main/Program_Screenshot.png)
+![Screenshot](https://github.com/Compusalle/Temperature-Control-System/blob/main/Programe_Screenshot.png)
 
 ----------------------------------------------
 
