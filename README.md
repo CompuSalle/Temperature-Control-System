@@ -25,19 +25,19 @@ from gpio import *
 from time import *
 
 def inputHandler():
- 
+	#Convert the range  
     value = (((analogRead(A0) - 0 ) * (100 - -100)) / (1023 - 0)) +  -100
     customWrite(0,value)
     
+#setup the callback event to handle the value at A0 slot
 def main():
     add_event_detect(A0, inputHandler)
 
     while True:
         delay(1)
 
-if _name_ == "__main__":
+if __name__ == "__main__":
     main()
-  on work
   
 ```
 
