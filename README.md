@@ -18,7 +18,7 @@ You can find a go-through video step-by-step on my youtube channel in [here](htt
 
 > The used python script
 
-**Inside MCU |main.py**
+**Inside MCU | main.py**
 
 ```
 from gpio import *
