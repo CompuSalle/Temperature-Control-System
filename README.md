@@ -1,7 +1,7 @@
 # Temperature Control System Between Two Offices Using Cisco Packet Tracer 
 
 
-### Before Using Please Refer To [LICENSE](https://github.com/WassemAdil/Network-System-Simulation/blob/main/LICENSE)
+### Before Using Please Refer To [LICENSE](https://github.com/compusalle/Network-System-Simulation/blob/main/LICENSE)
 
 -----------------------
 Use the original Cisco Packet Tracer Program From [Cisco](https://www.netacad.com/courses/packet-tracer)
